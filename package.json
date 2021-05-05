@@ -1,0 +1,12 @@
+{
+  "name": "critical-css-pragma",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "author": "Matt Jones",
+  "license": "MIT",
+  "workspaces": [
+    "site",
+    "packages/*"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "pragma",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "private": true,
+  "author": "Matt Jones",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17"
+  }
+}
