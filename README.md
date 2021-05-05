@@ -21,4 +21,7 @@ ReactDOMServer.renderToString(
 );
 
 console.log('Used classnames', usedClassNames)
+
+// TODO Generate critical CSS from static stylesheets
+const criticalCss = generateCriticalCss(stylesheets, usedClassNames)
 ```
